@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lab Answers", "Lab Answers\Lab Answers.rptproj", "{AC8F0632-89D6-42CE-91D1-A61D7EADA015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.Debug|Default.ActiveCfg = Debug
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.Debug|Default.Build.0 = Debug
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.Debug|Default.Deploy.0 = Debug
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.DebugLocal|Default.Build.0 = DebugLocal
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.Release|Default.ActiveCfg = Release
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.Release|Default.Build.0 = Release
+		{AC8F0632-89D6-42CE-91D1-A61D7EADA015}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C9D268C-CA57-4A7D-88C7-AC324612FDEE}
+	EndGlobalSection
+EndGlobal
